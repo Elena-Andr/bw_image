@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Black-and-white image</string>
+    <string name="open_image_button_title">Open image from gallery</string>
+    <string name="image_before_label">Image before filter</string>
+    <string name="run_button_title">Run</string>
+    <string name="image_before_after_label">Image before and after filter</string>
+    <string name="image_after_label">Image after filter</string>
+    <string name="page_0">Before</string>
+    <string name="page_1">After</string>
+    <string name="page_2">Before&amp;After</string>
+    <string name="filter_hint">Please select filter</string>
+    <string name="open_image_hint">Please open image first</string>
+
+    <string-array name="available_filters">
+    <item>Please select filter</item>
+    <item>None</item>
+    <item>Otsu\'s Algorithm</item>
+    <item>Bradley\'s Algorithm (adaptive)</item>
+    <item>Sepia</item>
+    </string-array>
+
+</resources>
